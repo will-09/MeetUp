@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Woo/Desktop/MeetUp-Phase2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Woo/Desktop/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/classes-ad09bc92eee2e76582ae4d540a93033f6f425180.jar" />
+    </item>
+    <item
+        jar="/Users/Woo/Desktop/MeetUp-Phase2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Woo/Desktop/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/classes-a66cca4489d9f494422be497a1c43f3d1894048c.jar" />
+    </item>
+    <item
+        jar="/Users/Woo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Woo/Desktop/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-bcfe06e3635c4127f0945a3a8358af0695c2c0aa.jar" />
+    </item>
+    <item
+        jar="/Users/Woo/Desktop/MeetUp-Phase2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Woo/Desktop/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-6cc6702d42e1ab85f41af98033824335d1b2250c.jar" />
+    </item>
+    <item
+        jar="/Users/Woo/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.6.1/6f3b8a24bf970f17289b234284c94f43eb42f0e4/slf4j-api-1.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6f3b8a24bf970f17289b234284c94f43eb42f0e4">
+        <dex dex="/Users/Woo/Desktop/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/slf4j-api-1.6.1-056756decd5d9c15101afd63e9204fb590fe6dcf.jar" />
+    </item>
+    <item
+        jar="/Users/Woo/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.6.1/58e59bfb3e247097b8122243b3bfe0049c8cfae8/slf4j-simple-1.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="58e59bfb3e247097b8122243b3bfe0049c8cfae8">
+        <dex dex="/Users/Woo/Desktop/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/slf4j-simple-1.6.1-71b3f6182c0893b7f200e28545a116125a8f1630.jar" />
+    </item>
+    <item
+        jar="/Users/Woo/.gradle/caches/modules-2/files-2.1/org.osmdroid/osmdroid-android/4.2/f3a0c73a9ed04a5d0959789c53da9f08462bfcc2/osmdroid-android-4.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3a0c73a9ed04a5d0959789c53da9f08462bfcc2">
+        <dex dex="/Users/Woo/Desktop/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/osmdroid-android-4.2-611a62395660f35466d8fb4344b0e2ca461a5682.jar" />
+    </item>
+
+</items>
